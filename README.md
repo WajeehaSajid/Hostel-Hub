@@ -1,4 +1,4 @@
-[HostelHub_README.md](https://github.com/user-attachments/files/28997674/HostelHub_README.md)
+
 <div align="center">
 
 # HostelHub
